@@ -1,0 +1,16 @@
+{
+    "serverName": "撤硕（主服/生存服）",
+    "mainServerName": "撤硕",
+    "serverList": [
+        "survival",
+        "creative",
+        "mirror",
+        "elytra"
+    ],
+    "start_day": "2022-02-20",
+    "daycount_plugin_ids": [
+        "mcd_daycount",
+        "day_count_reforged",
+        "daycount_nbt"
+    ]
+}

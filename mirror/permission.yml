@@ -1,0 +1,53 @@
+# This is the permission config and storage file of MCDReforged
+# It is used to storage permission level stuffs of MCDR
+# Available levels (top to down):
+# - owner
+# - admin
+# - helper
+# - user
+# - guest
+
+
+default_level: user
+
+owner:
+- Nelson_Boss
+admin:
+helper:
+user:
+- Nelson_Boss
+- EUT
+- Breads
+- jiazai1
+- JIAZAI2
+- JIAZAI3
+- JIAZAI4
+- JIAZAI5
+- JIAZAI6
+- JIAZAI7
+- JIAZAI8
+- JIAZAI9
+- JIAZAI10
+- JIAZAI11
+- JIAZAI12
+- JIAZAI13
+- JIAZAI14
+- JIAZAI15
+- hsds
+- Alkaid
+- MOYUTA_BOT
+- HSDD
+- bot_end
+- Shuasha
+- END_BOT
+- slm
+- Macho
+- GHOST_Ancestor
+- Easy_sun
+- longniaozhu
+- A
+- Erbfg
+- SL
+- JIAZAI1
+- HSDS
+guest:

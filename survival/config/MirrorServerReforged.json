@@ -1,0 +1,12 @@
+{
+  "world":[
+    "world"
+  ],
+  "command":"python3 -m mcdreforged",
+  "rcon":{
+    "enable":true,
+    "host":"127.0.0.1",
+    "port":25573,
+    "password":"passwd"
+  }
+}

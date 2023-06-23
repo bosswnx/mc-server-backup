@@ -1,0 +1,8 @@
+{
+    "aes_key": "passwd",
+    "name": "survival",
+    "password": "survival",
+    "server_hostname": "127.0.0.1",
+    "server_port": 30001,
+    "debug": false
+}

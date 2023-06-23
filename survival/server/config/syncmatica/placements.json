@@ -1,0 +1,61 @@
+{
+  "placements": [
+    {
+      "id": "382e7455-d07a-47a9-b24d-3c476b416ca0",
+      "file_name": "像素画",
+      "hash": "826d59c1-e36b-396e-8965-9a7849abc4b7",
+      "origin": {
+        "position": [
+          619,
+          -59,
+          -2176
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "1bc2d643-3c84-3c2d-b8f7-a0391903b267",
+        "name": "EUT"
+      }
+    },
+    {
+      "id": "a5334a14-9788-4af3-a022-515da530627d",
+      "file_name": "新刷石机",
+      "hash": "b5d302b2-505f-3d15-a538-10837960f0b3",
+      "origin": {
+        "position": [
+          -828,
+          39,
+          557
+        ],
+        "dimension": "minecraft:the_end"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "1bc2d643-3c84-3c2d-b8f7-a0391903b267",
+        "name": "EUT"
+      }
+    },
+    {
+      "id": "04b227a6-0574-4653-8af1-959a13d7da10",
+      "file_name": "铺铁砧机器",
+      "hash": "a4b19961-2e85-35c9-aeb7-405af33bc19a",
+      "origin": {
+        "position": [
+          497,
+          99,
+          -2177
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_180",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "1bc2d643-3c84-3c2d-b8f7-a0391903b267",
+        "name": "EUT"
+      }
+    }
+  ]
+}

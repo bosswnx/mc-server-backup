@@ -1,0 +1,25 @@
+{
+    "aes_key": "passwd",
+    "hostname": "127.0.0.1",
+    "port": 30001,
+    "clients": [
+        {
+            "name": "survival",
+            "password": "survival"
+        },
+        {
+            "name": "creative",
+            "password": "creative"
+        },
+        {
+            "name": "mirror",
+            "password": "mirror"
+        },
+        {
+            "name": "elytra",
+            "password": "elytra"
+        }
+    ],
+    "show_chat": true,
+    "log_chat": false
+}

@@ -1,0 +1,23 @@
+{
+    "botList": [
+        {
+            "name": "Xe_Kr",
+            "location": {
+                "position": [
+                    63.42645774156044,
+                    97,
+                    20.64023958134312
+                ],
+                "facing": [
+                    -1.3573914,
+                    -20.850418
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        }
+    ]
+}

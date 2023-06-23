@@ -1,0 +1,403 @@
+{
+    "botList": [
+        {
+            "name": "Iron",
+            "location": {
+                "position": [
+                    -187.09903823505945,
+                    75,
+                    -199.25170693425417
+                ],
+                "facing": [
+                    152.55316,
+                    -69.89991
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "dywhp_bot",
+            "location": {
+                "position": [
+                    8509.736371294806,
+                    63,
+                    -14632.317279432467
+                ],
+                "facing": [
+                    -91.951294,
+                    73.20013
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "Stone",
+            "location": {
+                "position": [
+                    145.67883990197328,
+                    63,
+                    160.62331749172617
+                ],
+                "facing": [
+                    92.64868,
+                    14.758518
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "NVT_BOT",
+            "location": {
+                "position": [
+                    227.45465551558496,
+                    186,
+                    -203.597667386202
+                ],
+                "facing": [
+                    -22.193346,
+                    -79.49999
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "sgt_bot",
+            "location": {
+                "position": [
+                    222.97052437510467,
+                    185,
+                    -123.58221056329025
+                ],
+                "facing": [
+                    -88.492935,
+                    39.90024
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "yjg_bot",
+            "location": {
+                "position": [
+                    44.49051745183717,
+                    245.5,
+                    106.30000001192093
+                ],
+                "facing": [
+                    3.9013367,
+                    33.750004
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "dlklt_bot",
+            "location": {
+                "position": [
+                    350.5,
+                    166.9215999984741,
+                    162.5
+                ],
+                "facing": [
+                    -76.204346,
+                    2.6998737
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "SGT_BOT2",
+            "location": {
+                "position": [
+                    35.84961080570896,
+                    130,
+                    -15.586486877194742
+                ],
+                "facing": [
+                    94.7948,
+                    34.49983
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "nether_zrt_bot",
+            "location": {
+                "position": [
+                    -34.477063273012746,
+                    245.5,
+                    -248.3488079357373
+                ],
+                "facing": [
+                    93.148926,
+                    51.749924
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "eht_bot",
+            "location": {
+                "position": [
+                    -368.34016819519564,
+                    248,
+                    -319.65155481313764
+                ],
+                "facing": [
+                    -178.95027,
+                    49.949306
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "Sleep",
+            "location": {
+                "position": [
+                    622.4079523706508,
+                    67.875,
+                    -1771.3062368646088
+                ],
+                "facing": [
+                    -4.500015,
+                    28.499945
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "ZSJWHP_BOT",
+            "location": {
+                "position": [
+                    1089.098629417345,
+                    128,
+                    -255.49371997243327
+                ],
+                "facing": [
+                    -90.89595,
+                    -1.349615
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "OLD_ZSJWHP",
+            "location": {
+                "position": [
+                    -199.45970717168768,
+                    128,
+                    -40.00360500411358
+                ],
+                "facing": [
+                    3.9023132,
+                    4.349701
+                ],
+                "dimension": -1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "SLM_BOT",
+            "location": {
+                "position": [
+                    1569.0300003132202,
+                    178.5,
+                    -519.6144945779796
+                ],
+                "facing": [
+                    -75.35124,
+                    -89.7
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "QYB_BOT",
+            "location": {
+                "position": [
+                    -524.6938575070457,
+                    81,
+                    -774.5538711998736
+                ],
+                "facing": [
+                    -156.01384,
+                    34.949966
+                ],
+                "dimension": 1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "Qyb",
+            "location": {
+                "position": [
+                    -526.9499999880791,
+                    81.00980000019074,
+                    -772.9875000119209
+                ],
+                "facing": [
+                    -139.06296,
+                    82.350075
+                ],
+                "dimension": 1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "HHT_BOT",
+            "location": {
+                "position": [
+                    1774.6058088429165,
+                    181,
+                    -2857.2842235729286
+                ],
+                "facing": [
+                    0.34179688,
+                    64.64984
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "MDWHP",
+            "location": {
+                "position": [
+                    -919.8869074112756,
+                    55.5,
+                    -374.8746912440045
+                ],
+                "facing": [
+                    -63.825607,
+                    48.599854
+                ],
+                "dimension": 1
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "JIAZAI",
+            "location": {
+                "position": [
+                    532.5169257862912,
+                    174.125,
+                    -1814.525992189853
+                ],
+                "facing": [
+                    -87.59424,
+                    58.200134
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "JIAZAI2",
+            "location": {
+                "position": [
+                    532.4490579945126,
+                    174.125,
+                    -1958.5658134688847
+                ],
+                "facing": [
+                    -87.59216,
+                    71.9999
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        },
+        {
+            "name": "JIAZAI3",
+            "location": {
+                "position": [
+                    532.5169705627357,
+                    174.125,
+                    -2102.5064657018347
+                ],
+                "facing": [
+                    -91.1904,
+                    55.799847
+                ],
+                "dimension": 0
+            },
+            "comment": "",
+            "actions": [],
+            "autoLogin": false,
+            "autoRunActions": false
+        }
+    ]
+}
